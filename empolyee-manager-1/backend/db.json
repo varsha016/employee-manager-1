@@ -1,0 +1,61 @@
+{
+  "employee": [
+    {
+      "name": "r.k.villa",
+      "email": "r.k@gmail.com",
+      "profile": "https://media.istockphoto.com/id/1371895204/photo/young-woman-on-sofa-looking-at-smartphone-relaxing-at-home.jpg?s=612x612&w=is&k=20&c=BgM4MzT3t8hPjQbaISLgts73RddiG4xJVo74yzlRq_E=",
+      "gender": "female",
+      "active": true,
+      "role": "intern",
+      "id": 1
+    },
+    {
+      "name": "kate",
+      "email": "kate@gmail.com",
+      "profile": "https://media.istockphoto.com/id/1371895204/photo/young-woman-on-sofa-looking-at-smartphone-relaxing-at-home.jpg?s=612x612&w=is&k=20&c=BgM4MzT3t8hPjQbaISLgts73RddiG4xJVo74yzlRq_E=",
+      "gender": "female",
+      "active": true,
+      "role": "intern",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "kate",
+      "profile": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-businessman-standing-with-his-arms-in-picture-id1391718981?b=1&k=20&m=1391718981&s=170667a&w=0&h=5d95EBImyoEm7hhfgqm5tQgsJ1iTvvzbKqLLqMu-vZA=",
+      "email": "kate@gmail.com",
+      "password": "1234",
+      "gender": "",
+      "admin": true,
+      "role": "",
+      "id": 1
+    },
+    {
+      "name": "varsha",
+      "profile": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-businessman-standing-with-his-arms-in-picture-id1391718981?b=1&k=20&m=1391718981&s=170667a&w=0&h=5d95EBImyoEm7hhfgqm5tQgsJ1iTvvzbKqLLqMu-vZA=",
+      "email": "kate@gmail.com",
+      "password": "1234",
+      "gender": "",
+      "role": "",
+      "id": 2
+    },
+    {
+      "name": "varsha",
+      "profile": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-businessman-standing-with-his-arms-in-picture-id1391718981?b=1&k=20&m=1391718981&s=170667a&w=0&h=5d95EBImyoEm7hhfgqm5tQgsJ1iTvvzbKqLLqMu-vZA=",
+      "email": "varsha@gmail.com",
+      "password": "1234",
+      "gender": "",
+      "role": "",
+      "id": 3
+    },
+    {
+      "name": "kate",
+      "profile": "https://media.istockphoto.com/photos/portrait-of-a-confident-young-businessman-standing-with-his-arms-in-picture-id1391718981?b=1&k=20&m=1391718981&s=170667a&w=0&h=5d95EBImyoEm7hhfgqm5tQgsJ1iTvvzbKqLLqMu-vZA=",
+      "email": "kate@gmail.com",
+      "password": "1234",
+      "gender": "",
+      "role": "backend",
+      "id": 4
+    }
+  ]
+}
